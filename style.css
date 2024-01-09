@@ -27,7 +27,7 @@
   }
   
   .header-icons a:hover i {
-    animation: translateY 0.1s infinite alternate;
+    animation: translateY 0.7s infinite alternate;
     color: #e38613;
   }
   
